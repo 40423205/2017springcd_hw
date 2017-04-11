@@ -36,6 +36,14 @@
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20170411160051.1"><vh>20170222Week1</vh>
+<v t="leo.20170411160051.2" a="E"><vh>周次</vh>
+<v t="leo.20170411160051.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170411160051.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170411160051.5"><vh>上課內容1</vh></v>
+</v>
+</v>
 <v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -66,6 +74,8 @@
 <v t="yen.20170217105706.1"><vh>@edit 20170217.md</vh></v>
 <v t="leo.20170405000605.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170405012754.1"><vh>@edit 20170301.md</vh></v>
+<v t="leo.20170411153028.1"><vh>@edit 20170308.md</vh></v>
+<v t="leo.20170411155225.1"><vh>@edit 20170315.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -94,6 +104,47 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170411160051.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411160051.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411160051.3"># Week 1
+</t>
+<t tx="leo.20170411160051.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411160051.5">&lt;p align="left"&gt;
+1. 用 SciTE 將 Y:\stunnel\config 下的 stunnel.conf 開啟&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 在 cmd 輸入 ipconfig /all 查詢電腦 IP&lt;/p&gt;
+
+&lt;p align="left"&gt;
+3. 並將 stunnel.conf 的 https 的 IP 改為電腦的 IP&lt;/p&gt;
+
+&lt;p align="left"&gt;
+4. 若有使用 proxy 要指定電腦的 IP 不要經過 proxy&lt;/p&gt;
+
+&lt;p align="left"&gt;
+5. 可從 Google Chrome 設定 (proxy 設定&gt;LAN設定&gt;進階)&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
