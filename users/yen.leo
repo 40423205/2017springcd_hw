@@ -16,12 +16,12 @@
 <v t="yen.20170108171622.1"><vh>有關 2017springcd</vh></v>
 <v t="yen.20170108171733.1" a="E"><vh>@path ../</vh>
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
-<v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
-<v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
 <v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
+<v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
+<v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
 <v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
 <v t="yen.20170215103228.1" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
@@ -77,6 +77,7 @@
 <v t="leo.20170411153028.1"><vh>@edit 20170308.md</vh></v>
 <v t="leo.20170411155225.1"><vh>@edit 20170315.md</vh></v>
 <v t="leo.20170411164700.1"><vh>@edit 20170322.md</vh></v>
+<v t="leo.20170412004102.1"><vh>@edit 20170329.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
