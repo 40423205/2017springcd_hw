@@ -44,6 +44,17 @@
 <v t="leo.20170411160051.5"><vh>上課內容1</vh></v>
 </v>
 </v>
+<v t="leo.20170419004629.1"><vh>20170301Week2</vh>
+<v t="leo.20170419004629.2" a="E"><vh>筆記</vh>
+<v t="leo.20170419004629.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419004629.4" a="E"><vh>筆記</vh>
+<v t="leo.20170419004629.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170419004629.6" a="E"><vh>筆記</vh>
+<v t="leo.20170419004629.7"><vh>內容</vh></v>
+</v>
+</v>
 <v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -141,6 +152,70 @@
 
 &lt;p align="left"&gt;
 5. 可從 Google Chrome 設定 (proxy 設定&gt;LAN設定&gt;進階)&lt;/p&gt;</t>
+<t tx="leo.20170419004629.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419004629.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419004629.3"># 2017/03/01第二周上課內容
+
+*一.筆記
+
+1.tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
+
+2.stunnel.conf移到SciTE
+
+3.程式碼前面是分號 就是註解不會執行那段程式碼
+
+4.利用cmd查IP(ipconfig /all)
+
+5.將https的IP改為電腦的IP(第138行)
+
+6.443是https內建的port號, 不用改</t>
+<t tx="leo.20170419004629.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419004629.5">7.因為有用proxy所以要指定192.168.1.49的IP不要經過proxy
+
+8.Chrome proxy設定&gt;LAN設定&gt;進階
+
+9.2017springcd/data/onelink_vrep_remoteapi_pos_vel.7z
+
+10.使用 https://ethercalc.org/4lirnzbeh0fl寫各組座位表 
+
+11.翻譯老師交代的作業</t>
+<t tx="leo.20170419004629.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419004629.7">二.solvespace組立四連桿
+
+1.元件加上軸心
+&lt;iframe src="https://vimeo.com/210118780" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
