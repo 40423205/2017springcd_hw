@@ -97,11 +97,33 @@
 </v>
 </v>
 <v t="leo.20170427001812.1"><vh>20170405Week7</vh>
-<v t="leo.20170427001812.2" a="E"><vh>周次</vh>
+<v t="leo.20170427001812.2"><vh>周次</vh>
 <v t="leo.20170427001812.3"><vh>Week</vh></v>
 </v>
 <v t="leo.20170427001812.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170427001812.5"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170427005433.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170427005433.2"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170427005033.1"><vh>20170412Week8</vh>
+<v t="leo.20170427005033.2" a="E"><vh>周次</vh>
+<v t="leo.20170427005033.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170427005033.4"><vh>課堂報告1</vh>
+<v t="leo.20170427005033.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170427005146.1"><vh>20170419Week9</vh>
+<v t="leo.20170427005146.2"><vh>周次</vh>
+<v t="leo.20170427005146.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170427005146.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170427005146.5"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170427005237.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170427005237.2"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
@@ -465,8 +487,100 @@ https://mde2a2.kmol.info/cdbg5/home
 1. Fossil 檔案推送&lt;/p&gt;
 
 &lt;p align="left"&gt;
-2. V-rep 試著組合 8link, 練習 dummy 相關設定&lt;/p&gt;
+2.試著組合 8link, 練習 dummy 相關設定&lt;/p&gt;
+
 </t>
+<t tx="leo.20170427005033.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170427005033.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005033.3"># Week 8
+
+</t>
+<t tx="leo.20170427005033.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005033.5">##期中評分
+
+&lt;p&gt;個人自評:&lt;a href="http://mde1a2.kmol.info:8000/k96tgzh1ofbl"&gt;http://mde1a2.kmol.info:8000/k96tgzh1ofbl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;小組互評:&lt;a href="https://pygroup-ag100.rhcloud.com"&gt;https://pygroup-ag100.rhcloud.com&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170427005146.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170427005146.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005146.3"># Week 8
+
+</t>
+<t tx="leo.20170427005146.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005146.5"># 期中協同查驗與自評</t>
+<t tx="leo.20170427005237.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005237.2">##四連桿機構協同 Trace Point 查驗
+
+&lt;p&gt;Length=50 的 T 點軌跡圖
+&lt;iframe src="https://player.vimeo.com/video/213777378" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213777378"&gt;2017-04-19_軌跡圖(midterm1)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170427005433.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005433.2">##8link組裝
+&lt;iframe src="https://player.vimeo.com/video/213701995" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213701995"&gt;2017-04-18_8link (SolveSpace)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
