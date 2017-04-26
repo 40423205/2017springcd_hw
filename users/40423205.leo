@@ -33,7 +33,7 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170411160051.1"><vh>20170222Week1</vh>
@@ -111,7 +111,7 @@
 <v t="leo.20170427005033.2" a="E"><vh>周次</vh>
 <v t="leo.20170427005033.3"><vh>Week</vh></v>
 </v>
-<v t="leo.20170427005033.4"><vh>課堂報告1</vh>
+<v t="leo.20170427005033.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170427005033.5"><vh>上課內容1</vh></v>
 </v>
 </v>
@@ -250,7 +250,7 @@
 
 						
 </t>
-<t tx="leo.20170419004629.3">*一.筆記
+<t tx="leo.20170419004629.3">一.筆記
 
 1.tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
 
@@ -296,8 +296,8 @@
 </t>
 <t tx="leo.20170419004629.7">二.solvespace組立四連桿
 
-1.元件加上軸心
-&lt;iframe src="https://vimeo.com/210118780" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/210118780" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20170426232854.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -347,13 +347,11 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170426232902.3">1.了解使用HYPERWORKS
+<t tx="leo.20170426232902.3">&lt;p align="left"&gt;
+1. 完成看影片打出英文稿&lt;/p&gt;
 
-2.更改Start的foddil路徑
-
-3.用solvespace做出 30-50-608的四連桿機構，並組立轉出囗STL檔，再用IMPORT轉入V-REP
-
-4.用ONSHAP再次完成第3點的步驟，畫出並組立四連桿機構，以STL檔轉出，再傳入V-REP做測試</t>
+&lt;p align="left"&gt;
+2. 練習在近端建立 fossil&lt;/p&gt;</t>
 <t tx="leo.20170427000843.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -404,11 +402,8 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170427001117.3">一.筆記
-
-1.Fossil SCM與Stunnel啟動整合
-
-2.Onshape匯出 onebar並在V-rep加入馬達</t>
+<t tx="leo.20170427001117.3">#一.Fossil SCM與Stunnel啟動整合
+</t>
 <t tx="leo.20170427001117.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -420,8 +415,9 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170427001117.5">二.將單連桿轉入v-rep進行馬達運動模擬
+<t tx="leo.20170427001117.5">#二.將單連桿轉入v-rep進行馬達運動模擬
 
+&lt;iframe src="https://player.vimeo.com/video/211506622" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170427001144.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -449,11 +445,14 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170427001601.3">1.用ONSHAPE及SOLVESPACE繪製出ONBAR 及 FOURAR
+<t tx="leo.20170427001601.3">&lt;p align="left"&gt;
+1. 在 Onshape 繪製出 Onebar 及 Fourbar&lt;/p&gt;
 
-2.將Forbar匯入 V-rep加入馬達
+&lt;p align="left"&gt;
+2. 將 Fourbar 匯入 V-rep &lt;/p&gt;
 
-3.將上述四連桿機構做出運動軌跡，是否正確，並在網頁上執行運動軌跡</t>
+&lt;iframe src="https://player.vimeo.com/video/212773213" width="640" height="325" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20170427001621.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -577,7 +576,7 @@ https://mde2a2.kmol.info/cdbg5/home
 
 &lt;p&gt;Length=50 的 T 點軌跡圖
 &lt;iframe src="https://player.vimeo.com/video/213777378" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/213777378"&gt;2017-04-19_軌跡圖(midterm1)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+</t>
 <t tx="leo.20170427005433.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -590,8 +589,9 @@ https://mde2a2.kmol.info/cdbg5/home
 						
 </t>
 <t tx="leo.20170427005433.2">##8link組裝
+
 &lt;iframe src="https://player.vimeo.com/video/213701995" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/213701995"&gt;2017-04-18_8link (SolveSpace)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+</t>
 <t tx="leo.20170427005833.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -624,7 +624,7 @@ https://mde2a2.kmol.info/cdbg5/home
 
 &lt;p&gt;四連桿四足行走機構
 &lt;iframe src="https://player.vimeo.com/video/214869893" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/214869893"&gt;2017-04-26_四連桿四足行走機構(動畫)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+</t>
 <t tx="leo.20170427005959.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -967,7 +967,7 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423205](https://40423205.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
