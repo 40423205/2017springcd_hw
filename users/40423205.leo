@@ -73,9 +73,6 @@
 <v t="leo.20170426232854.2" a="E"><vh>筆記</vh>
 <v t="leo.20170426232854.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20170426232854.4" a="E"><vh>筆記</vh>
-<v t="leo.20170426232854.5"><vh>內容</vh></v>
-</v>
 </v>
 <v t="leo.20170427001117.1"><vh>20170322Week5</vh>
 <v t="leo.20170427001144.1" a="E"><vh>筆記</vh>
@@ -312,27 +309,16 @@
 
 						
 </t>
-<t tx="leo.20170426232854.3">
-
-1.建立個小組協同主機     
-   2017Springcd _bg5
-
+<t tx="leo.20170426232854.3">&lt;p align="left"&gt;
+1.建立個小組協同主機 2017Springcd _bg5&lt;/p&gt;
 https://mde2a2.kmol.info/cdbg5/home
 
+&lt;p align="left"&gt;
+2. 繪製單桿機構&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/211343657" width="640" height="306" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
-<t tx="leo.20170426232854.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170426232854.5">
-#二.HYPERWORKS 翻譯 </t>
 <t tx="leo.20170426232902.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -402,7 +388,7 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170427001117.3">#一.Fossil SCM與Stunnel啟動整合
+<t tx="leo.20170427001117.3">##一.Fossil SCM與Stunnel啟動整合
 </t>
 <t tx="leo.20170427001117.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -415,7 +401,7 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170427001117.5">#二.將單連桿轉入v-rep進行馬達運動模擬
+<t tx="leo.20170427001117.5">###二.將單連桿轉入v-rep進行馬達運動模擬
 
 &lt;iframe src="https://player.vimeo.com/video/211506622" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
