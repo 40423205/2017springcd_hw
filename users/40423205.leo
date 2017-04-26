@@ -116,7 +116,7 @@
 </v>
 </v>
 <v t="leo.20170427005146.1"><vh>20170419Week9</vh>
-<v t="leo.20170427005146.2"><vh>周次</vh>
+<v t="leo.20170427005146.2" a="E"><vh>周次</vh>
 <v t="leo.20170427005146.3"><vh>Week</vh></v>
 </v>
 <v t="leo.20170427005146.4" a="E"><vh>課堂報告1</vh>
@@ -124,6 +124,17 @@
 </v>
 <v t="leo.20170427005237.1" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170427005237.2"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170427005833.1"><vh>20170412Week10</vh>
+<v t="leo.20170427005833.2"><vh>周次</vh>
+<v t="leo.20170427005833.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170427005959.1"><vh>課堂報告1</vh>
+<v t="leo.20170427005959.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170427005833.4"><vh>課堂報告1</vh>
+<v t="leo.20170427005833.5"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
@@ -536,7 +547,7 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170427005146.3"># Week 8
+<t tx="leo.20170427005146.3"># Week 9
 
 </t>
 <t tx="leo.20170427005146.4">&lt;section data-markdown&gt;
@@ -581,6 +592,51 @@ https://mde2a2.kmol.info/cdbg5/home
 <t tx="leo.20170427005433.2">##8link組裝
 &lt;iframe src="https://player.vimeo.com/video/213701995" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/213701995"&gt;2017-04-18_8link (SolveSpace)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170427005833.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170427005833.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005833.3"># Week 10
+
+</t>
+<t tx="leo.20170427005833.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005833.5">###Fourbar Walker OnShape 零件協同繪圖與組立查驗
+
+&lt;p&gt;四連桿四足行走機構
+&lt;iframe src="https://player.vimeo.com/video/214869893" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214869893"&gt;2017-04-26_四連桿四足行走機構(動畫)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170427005959.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427005959.2"># 期中協同查驗與自評</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
