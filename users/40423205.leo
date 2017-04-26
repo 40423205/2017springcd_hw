@@ -45,6 +45,9 @@
 </v>
 </v>
 <v t="leo.20170419004629.1"><vh>20170301Week2</vh>
+<v t="leo.20170427000843.1" a="E"><vh>筆記</vh>
+<v t="leo.20170427000843.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20170419004629.2" a="E"><vh>筆記</vh>
 <v t="leo.20170419004629.3"><vh>內容</vh></v>
 </v>
@@ -56,11 +59,17 @@
 </v>
 </v>
 <v t="leo.20170426232902.1"><vh>20170308Week3</vh>
+<v t="leo.20170427001006.1" a="E"><vh>筆記</vh>
+<v t="leo.20170427001006.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20170426232902.2" a="E"><vh>筆記</vh>
 <v t="leo.20170426232902.3"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170426232854.1"><vh>20170315Week4</vh>
+<v t="leo.20170427001030.1" a="E"><vh>筆記</vh>
+<v t="leo.20170427001030.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20170426232854.2" a="E"><vh>筆記</vh>
 <v t="leo.20170426232854.3"><vh>內容</vh></v>
 </v>
@@ -68,7 +77,34 @@
 <v t="leo.20170426232854.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="leo.20170427001117.1"><vh>20170322Week5</vh>
+<v t="leo.20170427001144.1" a="E"><vh>筆記</vh>
+<v t="leo.20170427001144.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427001117.2" a="E"><vh>筆記</vh>
+<v t="leo.20170427001117.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427001117.4" a="E"><vh>筆記</vh>
+<v t="leo.20170427001117.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170427001601.1"><vh>20170329Week6</vh>
+<v t="leo.20170427001621.1" a="E"><vh>筆記</vh>
+<v t="leo.20170427001621.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427001601.2" a="E"><vh>筆記</vh>
+<v t="leo.20170427001601.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170427001812.1"><vh>20170405Week7</vh>
+<v t="leo.20170427001812.2" a="E"><vh>周次</vh>
+<v t="leo.20170427001812.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170427001812.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170427001812.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
@@ -180,8 +216,7 @@
 
 						
 </t>
-<t tx="leo.20170419004629.3"># 2017/03/01第二周上課內容
-*一.筆記
+<t tx="leo.20170419004629.3">*一.筆記
 
 1.tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
 
@@ -243,7 +278,7 @@
 
 						
 </t>
-<t tx="leo.20170426232854.3"># 2017/03/15第四周上課內容
+<t tx="leo.20170426232854.3">
 
 1.建立個小組協同主機     
    2017Springcd _bg5
@@ -278,15 +313,159 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170426232902.3"># 2017/03/08第三周上課內容
-
-1.了解使用HYPERWORKS
+<t tx="leo.20170426232902.3">1.了解使用HYPERWORKS
 
 2.更改Start的foddil路徑
 
 3.用solvespace做出 30-50-608的四連桿機構，並組立轉出囗STL檔，再用IMPORT轉入V-REP
 
 4.用ONSHAP再次完成第3點的步驟，畫出並組立四連桿機構，以STL檔轉出，再傳入V-REP做測試</t>
+<t tx="leo.20170427000843.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427000843.2"># Week 2</t>
+<t tx="leo.20170427001006.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001006.2"># Week 3</t>
+<t tx="leo.20170427001030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001030.2"># Week 4</t>
+<t tx="leo.20170427001117.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170427001117.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001117.3">一.筆記
+
+1.Fossil SCM與Stunnel啟動整合
+
+2.Onshape匯出 onebar並在V-rep加入馬達</t>
+<t tx="leo.20170427001117.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001117.5">二.將單連桿轉入v-rep進行馬達運動模擬
+
+</t>
+<t tx="leo.20170427001144.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001144.2"># Week 5</t>
+<t tx="leo.20170427001601.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170427001601.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001601.3">1.用ONSHAPE及SOLVESPACE繪製出ONBAR 及 FOURAR
+
+2.將Forbar匯入 V-rep加入馬達
+
+3.將上述四連桿機構做出運動軌跡，是否正確，並在網頁上執行運動軌跡</t>
+<t tx="leo.20170427001621.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001621.2"># Week 6</t>
+<t tx="leo.20170427001812.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170427001812.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001812.3"># Week 7
+
+</t>
+<t tx="leo.20170427001812.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427001812.5">&lt;p align="left"&gt;
+1. Fossil 檔案推送&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. V-rep 試著組合 8link, 練習 dummy 相關設定&lt;/p&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
