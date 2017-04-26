@@ -55,6 +55,19 @@
 <v t="leo.20170419004629.7"><vh>內容</vh></v>
 </v>
 </v>
+<v t="leo.20170426232902.1"><vh>20170308Week3</vh>
+<v t="leo.20170426232902.2" a="E"><vh>筆記</vh>
+<v t="leo.20170426232902.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170426232854.1"><vh>20170315Week4</vh>
+<v t="leo.20170426232854.2" a="E"><vh>筆記</vh>
+<v t="leo.20170426232854.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170426232854.4" a="E"><vh>筆記</vh>
+<v t="leo.20170426232854.5"><vh>內容</vh></v>
+</v>
+</v>
 <v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -168,7 +181,6 @@
 						
 </t>
 <t tx="leo.20170419004629.3"># 2017/03/01第二周上課內容
-
 *一.筆記
 
 1.tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
@@ -217,6 +229,64 @@
 
 1.元件加上軸心
 &lt;iframe src="https://vimeo.com/210118780" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170426232854.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170426232854.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426232854.3"># 2017/03/15第四周上課內容
+
+1.建立個小組協同主機     
+   2017Springcd _bg5
+
+https://mde2a2.kmol.info/cdbg5/home
+
+</t>
+<t tx="leo.20170426232854.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426232854.5">
+#二.HYPERWORKS 翻譯 </t>
+<t tx="leo.20170426232902.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170426232902.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426232902.3"># 2017/03/08第三周上課內容
+
+1.了解使用HYPERWORKS
+
+2.更改Start的foddil路徑
+
+3.用solvespace做出 30-50-608的四連桿機構，並組立轉出囗STL檔，再用IMPORT轉入V-REP
+
+4.用ONSHAP再次完成第3點的步驟，畫出並組立四連桿機構，以STL檔轉出，再傳入V-REP做測試</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
