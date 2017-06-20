@@ -179,7 +179,7 @@ ctx.fillStyle = "   #2894FF"
 ctx.font = "35px ScriptS"
 ctx.fillText("40423205 ",440,350)
 ctx.stroke()
-&lt;/script&gt;</summary><category term="W15"></category></entry><entry><title>20170524 Week 14</title><link href="./Week%2014.html" rel="alternate"></link><published>2017-05-24T11:00:00+08:00</published><updated>2017-05-24T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-24:./Week 14.html</id><summary type="html">&lt;h3&gt;純 IPv6 網路的主機&lt;/h3&gt;
+&lt;/script&gt;</summary><category term="W15"></category></entry><entry><title>20170524_W14</title><link href="./Week%2014.html" rel="alternate"></link><published>2017-05-24T11:00:00+08:00</published><updated>2017-05-24T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-24:./Week 14.html</id><summary type="html">&lt;h3&gt;純 IPv6 網路的主機&lt;/h3&gt;
 
 
 
@@ -188,10 +188,7 @@ ctx.stroke()
 
 &lt;p&gt;純 IPv6 的好處，可以有效的避免 IPv4 的漏洞，若要到 IPv4 的網頁上，可以透過設定 Proxy 來進行網頁的瀏覽。&lt;/p&gt;
 
-&lt;p&gt;透過主機在學校的 IP ，可以在學校以外的地方，連上我們架設好的主機，就可以享用學校的資源了。&lt;/p&gt;</summary><category term="W14"></category></entry><entry><title>20170517_W13</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-17:./Week 13.html</id><summary type="html">&lt;h2&gt;&lt;/h2&gt;
-&lt;p&gt;四連桿四足行走機構
-&lt;iframe src="https://player.vimeo.com/video/214869893" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/214869893"&gt;2017-04-26_四連桿四足行走機構(動畫)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="W13"></category></entry><entry><title>20170510 Week 12</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;h3&gt;FeatureScript 正齒輪&lt;/h3&gt;
+&lt;p&gt;透過主機在學校的 IP ，可以在學校以外的地方，連上我們架設好的主機，就可以享用學校的資源了。&lt;/p&gt;</summary><category term="W14"></category></entry><entry><title>20170517_W13</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-17:./Week 13.html</id><summary type="html">&lt;p&gt;W_13&lt;/p&gt;</summary><category term="W13"></category></entry><entry><title>20170510_W12</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;h3&gt;FeatureScript 正齒輪&lt;/h3&gt;
 
 
 
@@ -444,7 +441,7 @@ export const spur = defineFeature(function(context is Context, id is Id, definit
 skSolve(gearSketch);
 });
 &lt;/pre&gt;&lt;/div&gt;
-&lt;/pre&gt;</summary><category term="W12"></category></entry><entry><title>20170503 Week 11</title><link href="./Week%2011.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-03:./Week 11.html</id><summary type="html">&lt;h3&gt;以 Brython 繪製單一正齒輪廓&lt;/h3&gt;
+&lt;/pre&gt;</summary><category term="W12"></category></entry><entry><title>20170503_W11</title><link href="./Week%2011.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-05-03:./Week 11.html</id><summary type="html">&lt;h3&gt;以 Brython 繪製單一正齒輪廓&lt;/h3&gt;
 
 
 
