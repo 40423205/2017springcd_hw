@@ -134,6 +134,30 @@
 <v t="leo.20170427005833.5"><vh>上課內容1</vh></v>
 </v>
 </v>
+<v t="leo.20170620163302.1"><vh>20170503Week11</vh>
+<v t="leo.20170620163302.2"><vh>周次</vh>
+<v t="leo.20170620163302.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170620163302.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170620163302.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170620163308.1"><vh>20170510Week12</vh>
+<v t="leo.20170620163308.2"><vh>周次</vh>
+<v t="leo.20170620163308.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170620163308.4"><vh>課堂報告1</vh>
+<v t="leo.20170620163308.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170620163313.1"><vh>20170524Week14</vh>
+<v t="leo.20170620163313.2"><vh>周次</vh>
+<v t="leo.20170620163313.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170620163313.4"><vh>課堂報告1</vh>
+<v t="leo.20170620163313.5"><vh>上課內容1</vh></v>
+</v>
+</v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -628,6 +652,105 @@ https://mde2a2.kmol.info/cdbg5/home
 						
 </t>
 <t tx="leo.20170427005959.2"># 期中協同查驗與自評</t>
+<t tx="leo.20170620163302.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620163302.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620163302.3"># Week 11
+
+###2D 正齒輪繪圖
+</t>
+<t tx="leo.20170620163302.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620163302.5">&lt;p align="left"&gt;
+1. 以 Brython 繪製單一正齒輪廓 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 導入 Cango 程式庫繪製正齒輪廓 &lt;/p&gt;
+</t>
+<t tx="leo.20170620163308.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620163308.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620163308.3"># Week 12
+
+###繪製漸開線齒輪</t>
+<t tx="leo.20170620163308.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620163308.5">&lt;p align="left"&gt;
+1. FeatureScript 正齒輪 &lt;/p&gt;</t>
+<t tx="leo.20170620163313.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620163313.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620163313.3"># Week 14
+
+###架設伺服器主機
+</t>
+<t tx="leo.20170620163313.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620163313.5">&lt;p align="left"&gt;
+1. 純 IPv6 網路的主機 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+詳細的安裝過程請參考這位同學的介紹: &lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W14.html"&gt;40423245&lt;/a&gt; &lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
