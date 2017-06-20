@@ -145,9 +145,12 @@
 <v t="leo.20170620163302.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170620163308.1"><vh>20170510Week12</vh>
-<v t="leo.20170620163308.2"><vh>周次</vh>
+<v t="leo.20170620163308.1" a="E"><vh>20170510Week12</vh>
+<v t="leo.20170620163308.2" a="E"><vh>周次</vh>
 <v t="leo.20170620163308.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170621012912.1" a="E"><vh>周次</vh>
+<v t="leo.20170621012912.2"><vh>Week</vh></v>
 </v>
 <v t="leo.20170620163308.4"><vh>課堂報告1</vh>
 <v t="leo.20170620163308.5"><vh>上課內容1</vh></v>
@@ -764,8 +767,7 @@ https://mde2a2.kmol.info/cdbg5/home
 						
 </t>
 <t tx="leo.20170620163308.3"># Week 12
-
-###繪製漸開線齒輪</t>
+</t>
 <t tx="leo.20170620163308.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1095,6 +1097,18 @@ https://mde2a2.kmol.info/cdbg5/home
 </t>
 <t tx="leo.20170621011503.2">#完成 7 項任務
 </t>
+<t tx="leo.20170621012912.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621012912.2">#繪製漸開線齒輪</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
