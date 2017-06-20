@@ -9,14 +9,14 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
+<v t="yen.20170108171605.1"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="yen.20170108171622.1"><vh>有關 2017springcd</vh></v>
 <v t="yen.20170108171733.1" a="E"><vh>@path ../</vh>
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
@@ -123,14 +123,14 @@
 <v t="leo.20170427005237.2"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170427005833.1"><vh>20170412Week10</vh>
-<v t="leo.20170427005833.2"><vh>周次</vh>
+<v t="leo.20170427005833.1" a="E"><vh>20170412Week10</vh>
+<v t="leo.20170427005833.2" a="E"><vh>周次</vh>
 <v t="leo.20170427005833.3"><vh>Week</vh></v>
 </v>
-<v t="leo.20170427005959.1"><vh>課堂報告1</vh>
+<v t="leo.20170427005959.1" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170427005959.2"><vh>上課內容1</vh></v>
 </v>
-<v t="leo.20170427005833.4"><vh>課堂報告1</vh>
+<v t="leo.20170427005833.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170427005833.5"><vh>上課內容1</vh></v>
 </v>
 </v>
@@ -148,6 +148,17 @@
 </v>
 <v t="leo.20170620163308.4"><vh>課堂報告1</vh>
 <v t="leo.20170620163308.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170620231944.1" a="E"><vh>20170517Week13</vh>
+<v t="leo.20170620231944.2"><vh>周次</vh>
+<v t="leo.20170620231944.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170620232027.1"><vh>課堂報告1</vh>
+<v t="leo.20170620232027.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170620231944.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170620231944.5"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="leo.20170620163313.1"><vh>20170524Week14</vh>
@@ -753,6 +764,54 @@ https://mde2a2.kmol.info/cdbg5/home
 
 &lt;p align="left"&gt;
 詳細的安裝過程請參考這位同學的介紹: &lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W14.html"&gt;40423245&lt;/a&gt; &lt;/p&gt;</t>
+<t tx="leo.20170620231944.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620231944.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620231944.3"># Week 13
+
+
+</t>
+<t tx="leo.20170620231944.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620231944.5">&lt;p align="left"&gt;
+1. 八連桿行走機構 &lt;/p&gt;
+
+
+&lt;iframe src="https://vimeo.com/222323602" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170620232027.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620232027.2">#行走機構
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
