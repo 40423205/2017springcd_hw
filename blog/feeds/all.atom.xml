@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T11:00:00+08:00</updated><entry><title>20170621_W18</title><link href="./Week%2018.html" rel="alternate"></link><published>2017-06-21T11:00:00+08:00</published><updated>2017-06-21T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-06-21:./Week 18.html</id><summary type="html">&lt;h2&gt;期末報告&lt;/h3&gt;&lt;/h2&gt;
-</summary><category term="W18"></category></entry><entry><title>20170614_W17</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;h2&gt;協同查驗&lt;/h3&gt;&lt;/h2&gt;
+
+
+&lt;h2&gt;每個人分別上台報告3分鐘&lt;/h2&gt;
+&lt;h3&gt;以簡報方式報告自己從其中到期末做了那些作業。&lt;/h3&gt;</summary><category term="W18"></category></entry><entry><title>20170614_W17</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;h2&gt;協同查驗&lt;/h3&gt;&lt;/h2&gt;
 
 
 &lt;h3&gt;本周任務&lt;/h3&gt;
@@ -26,8 +29,7 @@
 
 
 
-&lt;p&gt;不管是將以中間齒輪為動力或是左右兩邊的齒輪為動力，從動齒輪都會有跳動的情況。&lt;/p&gt;
-
+&lt;h3&gt;不管將動力輸出設定為哪個，從動齒輪會有跳動的情況。&lt;/h3&gt;
 &lt;p&gt;以中間齒輪為動力:&lt;iframe src="https://player.vimeo.com/video/222353675" width="640" height="346" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/222353675"&gt;2017-6-18_V-rep 齒輪模擬 (以中間齒輪為動力)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63868127"&gt;40423205&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
